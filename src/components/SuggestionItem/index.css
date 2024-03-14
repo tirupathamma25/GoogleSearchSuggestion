@@ -1,0 +1,17 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.paragraph {
+  color: #475569;
+  font-size: 14px;
+  font-weight: normal;
+  font-family: 'Roboto';
+}
+
+.button {
+  border: none;
+  background-color: #ffffff;
+}
